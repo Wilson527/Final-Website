@@ -102,3 +102,8 @@ footer
     border-color: black;
     padding: 30px;
 }
+
+#size {
+    height: 250px;
+    width: auto;
+}
